@@ -1,1 +1,2 @@
 # Morgan Nydam MART341-WebDesign
+This week I learned how to create a repository and what it is, as well as what files and directories are. It was challenging trying to take in all the new info and understand how it works having absolutely no previous experience in the topic of web design. A success however is that I do understand it a little more now and I (hopefully) completed the first assignment correctly. 
