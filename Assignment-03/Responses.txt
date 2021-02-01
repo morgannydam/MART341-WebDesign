@@ -1,1 +1,6 @@
-Here's some text
+Three websites I enjoy visiting are Instagram, Amazon, and Pinterest.
+The relationship between an IP address and a DNS is the IP address is assigned to a computer to identify it on the network while the DNS is used to translate references into the IP address.
+A cookie is a piece of data stored on the computer by a website to remember information and the users browsing activity. 
+Three essential parts of a URL are the protocol, the domain name, and the path. 
+
+Three things Ive learned so far are what directories and folders are, what the internet and the world wide web are, and how information travels throught the web.
