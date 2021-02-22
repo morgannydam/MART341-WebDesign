@@ -1,0 +1,3 @@
+A page can have one main head element and one main body element. The head elements tell the browser info about the document while the body elements have all the sites data that gets displayed on the viewers computer.
+Structural markup embeds info about the structure of the document while semantic markup is used to reinforce the meaning of the info in the document.
+My work cycle for this assignment just involved going through the directions step by step and referring back to the lesson to ensure I was correctly doing each one. I didn't have any issues with figuring anything out this time, so it went quite smoothly. 
