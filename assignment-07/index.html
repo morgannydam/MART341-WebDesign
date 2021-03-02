@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <style>
+      table, th, td {
+        border: 1px solid black;
+        padding: 5px;
+      }
+    </style>
+    <meta charset="utf-8">
+    <meta name="description" content="Website for Assignment-07">
+    <meta name="author:" content="Morgan Nydam">
+    <title>Assignment-07</title>
+  </head>
+  <body>
+<h1>Contact Page</h1>
+<img src="./images/logo.png" alt="Puritan Cleaning Logo" title="Puritan Cleaning" width="500" height="250">
+<address>
+  Puritan Cleaning <br>
+  2008 Livingston Ave <br>
+  Missoula, MT <br>
+  59801 <br>
+  406-721-4501 <br>
+</address>
+<br>
+
+<table>
+  <tr>
+    <th></th>
+<th scope="col">Monday</th>
+<th scope="col">Tuesday</th>
+<th scope="col">Wednesday</th>
+<th scope="col">Thursday</th>
+<th scope="col">Friday</th>
+<th scope="col"> Saturday/<br>Sunday</th>
+  </tr>
+  <tr>
+    <th scope="row">Hours</th>
+    <td>9am-5pm</td>
+    <td>9am-5pm</td>
+    <td>9am-5pm</td>
+    <td>9am-5pm</td>
+    <td>10am-4pm</td>
+    <td>CLOSED</td>
+  </tr>
+</table>
+<br>
+<form class="info" action="https://puritancleaning.com/" method="get">
+  What is your first and last name? <br>
+  First Name:
+  <input type="text" name="firstname" id="txtname" value="" autofocus> <br>
+  Last Name:
+  <input type="text" name="lastname" value="">
+  <input type="button" name="submit" value="Submit"> <br>
+  <br>
+  Do you have any pets? <br>
+  <input type="radio" name="yes" value="Yes"> Yes <br>
+  <input type="radio" name="no" value="no"> No <br>
+  <input type="submit" name="submit" value="Submit"> <br>
+  <br>
+  Comments:<br>
+  <textarea name="comments" rows="8" cols="80">
+ Enter up to 500 Characters
+  </textarea>
+  <br>
+  <input type="submit" name="submit" value="Submit">
+
+</form>
+  </body>
+</html>

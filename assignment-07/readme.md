@@ -1,0 +1,2 @@
+Some forms I have come across on the web include job applications. They provide people an opportunity to apply to jobs online by asking all the necessary questions and having space to fill them in and submit directly through the internet.
+Examples of a text input include placeholders, passwords, and plain text. Examples of selection inputs include radio buttons, checkbox elements, and dropdown select. Examples of button inputs are uploads, images, and submit buttons.
