@@ -1,0 +1,42 @@
+
+/*This is for everything on the page*/
+* {
+  font-family: courier;
+  text-align: center;
+  font-size: 20px;
+  background-color: MediumSpringGreen;
+}
+body {
+  background-color: MediumSpringGreen;
+  color: Crimson;
+  padding: 10%;
+}
+h1 {
+  color: Crimson;
+  font-size: 60px;
+  background-color: Aqua;
+  padding: 10%;
+  border-style: double;
+  border-color: Orchid;
+  border-width: thick;
+  position: relative;
+}
+h2 {
+  color:DarkOrange;
+  font-size: 50px;
+}
+h3 {
+  color: Orchid;
+  font-size: 40px;
+  border-style: double;
+  border-color: DarkOrange;
+  border-width: thick;
+  border-radius: 50px;
+}
+p, ul, li {
+  background-color: Aqua;
+  padding: 10%;
+}
+li{
+  opacity: 0.5;
+}
