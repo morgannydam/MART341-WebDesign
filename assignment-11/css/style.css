@@ -1,0 +1,39 @@
+/* whole page */
+* {
+  text-align: center;
+  background-color: pink;
+}
+/*Paragraph*/
+p {
+  font-family: courier, cursive;
+  }
+p::first-line {
+  font-size: 25px;
+  color: hotpink;
+}
+/*Headings*/
+h1, h4, h6 {
+  font-family: tahoma, impact;
+}
+h1 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+h4 {
+  font-size: 25px;
+  font-weight: normal;
+}
+h6 {
+  font-size: 15px;
+  font-weight: lighter;
+}
+/*Link*/
+a:link {
+  color:purple;
+}
+a:visited {
+  color: gray;
+}
+a:hover {
+  color: blue;
+}
