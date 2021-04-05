@@ -1,0 +1,2 @@
+1. Padding is the amount of space between the inner content of the element and the element itself. Margin is the space between the box/element and other elements, or the edge of the parent element. Lastly, borders help define the amount of space a box or element takes up, as well as its relationship to other boxes. <br>
+2. This week I had some issues with display, positioning, and floating at first. After messing around with it for a while and adding more elements to my page I was able to figure it out on my own though. 
