@@ -1,0 +1,15 @@
+ul {
+      background-color: lightgray;
+      text-align: center;
+      padding: 10px;
+    }
+   li {
+      display: inline;
+      padding: 5px;
+    }
+    .dropdown {
+      display: inline-block;
+    }
+    .dropdown-content:hover {
+      display: none;
+    }
