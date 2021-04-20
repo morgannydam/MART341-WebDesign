@@ -1,0 +1,55 @@
+* {
+  background-color: white;
+  text-align: center;
+
+}
+header {
+  background-color: gray;
+  text-align: center;
+  padding: 20px;
+}
+
+
+h1 {
+  font-family: impact, georgia;
+  text-align: center;
+  color: white;
+}
+h2 {
+  font-family: tahoma, courier;
+  text-align: center;
+  color:white;
+}
+h4 {
+  font-family: tahoma, courier;
+  color: white;
+}
+p {
+  font-family: courier, verdana;
+  text-align: center;
+  font-size: 25px;
+  padding: 6%;
+  color: white;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color: purple;
+}
+img {
+  width: 500px;
+  height:500px;
+  padding: 5%;
+  margin: 1em;
+}
+form {
+  color: white;
+  padding: 10%;
+}
+textarea {
+  color:white;
+}
+input {
+  color:white;
+}
