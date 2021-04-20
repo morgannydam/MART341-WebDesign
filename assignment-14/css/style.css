@@ -1,5 +1,5 @@
 * {
-  background-color: white;
+  background-color: black;
   text-align: center;
 
 }
@@ -52,4 +52,11 @@ textarea {
 }
 input {
   color:white;
+}
+
+canvas {
+  background-color: seagreen;
+  border-style: double;
+  border-width: 50px;
+  padding: 10px;
 }
