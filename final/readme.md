@@ -1,0 +1,2 @@
+1. & 2. For this assignment, everything was mainly review in regards to web development and web design. Therefore, I didn't necessarily learn anything new, but I was able to combine everything I've learned to create an entire webpage the way I wanted to. <br>
+3. The main challenge I faced this time was trying to make a dropdown menu. I ultimately was not able to solve this issue on my own. However, I got much further than I did last time with it and was able to get it pretty close. Other than that, everything else came pretty easily. 

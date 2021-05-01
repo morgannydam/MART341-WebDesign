@@ -1,0 +1,97 @@
+* {
+  text-align: center;
+  background-color: black;
+}
+header {
+  padding: 1em;
+  position: fixed;
+  text-align: center;
+  width: 95%;
+  border-style: solid;
+  border-color: gray;
+  font-size: 25px;
+}
+
+h1 {
+  color: PaleGreen;
+  font-size: 50px;
+  font-family:tahoma, fantasy;
+}
+h2 {
+color: PaleTurquoise;
+font-size: 50px;
+font-family: impact, fantasy;
+}
+h3{
+  color: Plum;
+  font-size: 25px;
+  padding: 10%;
+  font-family: sans-serif, comic;
+}
+h4 {
+color: Plum;
+font-size: 25px;
+font-family: courier, comic;
+}
+p {
+  color: PaleTurquoise;
+  font-size: 25px;
+  padding: 10%;
+  border-style: dashed;
+  border-color: PaleGreen;
+  border-width: thick;
+  font-family: verdana, arial;
+}
+form {
+  color: white;
+  padding: 10px;
+
+}
+textarea {
+  color:white;
+}
+input {
+  color:white;
+}
+img {
+width: 500px;
+height: 500px;
+padding: 5%;
+margin: 1em;
+}
+video {
+
+}
+.dropdown-item-1 {
+  display: block;
+  text-align: left;
+}
+.dropdown-item {
+  display: block;
+text-align: left;
+
+}
+.dropdown {
+  display: inline-block;
+  overflow: hidden;
+
+}
+.dropdown-content:hover {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: black;
+    background-color: #a2a2a2;
+}
+.dropdown-item-1:hover, .dropdown-item-1:hover a {
+  color:black;
+  background-color: #a2a2a2;
+}
